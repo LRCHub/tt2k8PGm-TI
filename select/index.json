@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Dusk Till Dawn (feat. Sia)",
+  "base_artist": "ZAYN",
+  "createdAt": "2026-02-22T01:58:33.891744Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Sia)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/01_Dusk_Till_Dawn_(feat._Sia)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Sia)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/02_Dusk_Till_Dawn_(feat._Sia)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Sia)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/03_Dusk_Till_Dawn_(feat._Sia)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Sia)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/04_Dusk_Till_Dawn_(feat._Sia)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Sia)",
+      "artist": "ZAYN, Sia",
+      "has_synced": true,
+      "path": "select/05_Dusk_Till_Dawn_(feat._Sia)_ZAYN,_Sia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Sia) [Radio Edit]",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/06_Dusk_Till_Dawn_(feat._Sia)_[Radio_Edit]_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Sia) (Radio Edit)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/07_Dusk_Till_Dawn_(feat._Sia)_(Radio_Edit)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Sia)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/08_Dusk_Till_Dawn_(feat._Sia)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Sia) (Radio Edit)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/09_Dusk_Till_Dawn_(feat._Sia)_(Radio_Edit)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Sia)",
+      "artist": "ZAYN; Sia",
+      "has_synced": true,
+      "path": "select/10_Dusk_Till_Dawn_(feat._Sia)_ZAYN;_Sia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Sia)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/11_Dusk_Till_Dawn_(feat._Sia)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. VIC MENSA)",
+      "artist": "Hermitude",
+      "has_synced": true,
+      "path": "select/12_Dusk_Till_Dawn_(feat._VIC_MENSA)_Hermitude.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat",
+      "artist": "ZAYN, Sia",
+      "has_synced": true,
+      "path": "select/13_Dusk_Till_Dawn_(feat_ZAYN,_Sia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (feat. Britt Nicole & Iz)",
+      "artist": "Grits",
+      "has_synced": true,
+      "path": "select/14_Dusk_Till_Dawn_(feat._Britt_Nicole_&_Iz)_Grits.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "From Dusk Till Dawn (feat. FLVME)",
+      "artist": "25K",
+      "has_synced": true,
+      "path": "select/15_From_Dusk_Till_Dawn_(feat._FLVME)_25K.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dusk Till Dawn (feat. Sia) [Radio Edit]",
+      "artist": "ZAYN",
+      "has_synced": false,
+      "path": "select/pl_01_Dusk_Till_Dawn_(feat._Sia)_[Radio_Edit]_ZAYN.txt"
+    }
+  ]
+}
